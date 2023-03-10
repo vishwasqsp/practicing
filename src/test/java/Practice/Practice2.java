@@ -8,5 +8,7 @@ public class Practice2
 	public void pr1()
 	{
 		System.out.println("executed");
+		String url = System.getProperty("url");
+		System.out.println("BROWSER IS -------> "+url);
 	}
 }

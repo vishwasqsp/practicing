@@ -9,6 +9,8 @@ public class Practice {
 	{
 		System.out.println("oye");
 		System.out.println("poll scm");
+		String browser = System.getProperty("browser");
+		System.out.println("BROWSER IS -------> "+browser);
 	}
 
 }
