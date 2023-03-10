@@ -9,7 +9,7 @@ public class Practice2
 	{
 		System.out.println("executed");
 		String url = System.getProperty("url");
-		System.out.println("BROWSER IS -------> "+url);
+		System.out.println("URL IS -------> "+url);
 		System.out.println("PARAMETERISED");
 	}
 }
