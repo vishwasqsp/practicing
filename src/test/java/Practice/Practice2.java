@@ -9,6 +9,6 @@ public class Practice2
 	{
 		String url = System.getProperty("url");
 		System.out.println("URL IS -------> "+url);
-		System.out.println("PARAMETERISED");
+		System.out.println("FINALISED");
 	}
 }
