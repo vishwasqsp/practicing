@@ -8,6 +8,7 @@ public class Practice {
 	public void pr1()
 	{
 		System.out.println("oye");
+		System.out.println("poll scm");
 	}
 
 }
